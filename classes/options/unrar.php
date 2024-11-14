@@ -194,4 +194,3 @@ function rar_st(elementid, st){
 <script type="text/javascript">document.getElementById('unrar_finished').style.display = '';</script>
 <?php
 }
-?>
